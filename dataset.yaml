@@ -1,0 +1,5 @@
+train: C:\Users\sergi\Desktop\detect\data\train\
+val: C:\Users\sergi\Desktop\detect\data\val\
+test: 
+nc: 1
+names: ["chess"]
